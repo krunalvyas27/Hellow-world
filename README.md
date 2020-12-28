@@ -1,2 +1,2 @@
 # Hellow-world
-Welcome repo
+Hello Everyone, I am krunal Vyas. Trying to learn neew thing.
